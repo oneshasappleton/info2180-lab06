@@ -1,3 +1,1 @@
-# info2180-lab06
-This is lab 6 2019
-
+# Info2180-Lab6-2019
